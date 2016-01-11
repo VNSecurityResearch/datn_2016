@@ -1,0 +1,8 @@
+# Domain: google.com or *.google.com
+# IP: 192.168.123.12 or 192.168.1.1/24
+# Regular Expression (start with '^') Ex: ^*.\.google\.com$ ^^tinhte\.vn$
+
+*.kcq-viettel.vn
+^(\d{1,3}.){4}in-addr.arpa
+10.0.0.0/8
+192.168.0.0/16

@@ -1,0 +1,13 @@
+
+
+system.numbercluster = 4
+
+whitelist.path = 
+whitelist.filename = WhiteList.txt
+data.path = /media/everybody/New\ Volume/May\ ao/
+data.filename = 2015-10-06.00
+output.path = /media/everybody/New\ Volume/May\ ao/
+output.filename = periodic.txt
+
+sql.column = category 
+sql.value = dns
